@@ -1,4 +1,4 @@
-# npm run s = nodemon server.js
+# 'npm run s' = nodemon server.js
 
 # http://localhost:4000/graphiql
 

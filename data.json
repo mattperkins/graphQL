@@ -1,28 +1,22 @@
 {
-"customers" : [
- {
- "id" : "1",
- "name" : "Sandy",
- "email" : "sandy@email.com",
- "age" : 19
- },
- {
- "id" : "2",
- "name" : "Max",
- "email" : "max@email.com",
- "age" : 34
- },
- {
- "id" : "3",
- "name" : "Fred",
- "email" : "fre@email.com",
- "age" : 44
- },
- {
- "id" : "4",
- "name" : "Amy",
- "email" : "amy@email.com",
- "age" : 23
- }
-]
+  "customers": [
+    {
+      "name": "Heidi",
+      "email": "heidi@email.com",
+      "age": 24,
+      "id": "BkUkjn1wb"
+    },
+    {
+      "name": "Hello",
+      "email": "hello@email.com",
+      "age": 100,
+      "id": "ry3PGpJDb"
+    },
+    {
+      "name": "Bob",
+      "email": "bob@email.com",
+      "age": 90,
+      "id": "ByGKIpJvb"
+    }
+  ]
 }

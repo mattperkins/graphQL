@@ -39,6 +39,12 @@ fields: {
  }	
  }
  }
+ },
+ customers: {
+ type: new GraphQLList(CustomerType),
+ resolve(parentValue, args){
+ return customers
+ }
  } 
 }
 })

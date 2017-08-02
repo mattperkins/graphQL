@@ -4,7 +4,7 @@ const schema = require('./schema.js')
 
 const app = express();
 
-app.use('/lemon', expressGraphQL({
+app.use('/graphiql', expressGraphQL({
 schema: schema,
 graphiql: true
 })) 

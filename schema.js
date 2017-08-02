@@ -8,10 +8,10 @@ GraphQLNonNull
 } = require('graphql');
 
 // Hardcoded data in lieu of a Database call
-const customer = [
+const customers = [
 {id: '1', name: 'Sandy', email: 'sandy@email.com', age:19},
-{id: '1', name: 'Max', email: 'max@email.com', age:30},
-{id: '1', name: 'Fred', email: 'fred@email.com', age:44},
+{id: '2', name: 'Max', email: 'max@email.com', age:30},
+{id: '3', name: 'Fred', email: 'fred@email.com', age:44},
 ]
 // Customer Type
 const CustomerType = new GraphQLObjectType({

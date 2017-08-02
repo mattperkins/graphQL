@@ -1,5 +1,5 @@
 {
-  "name": "graphql",
+  "name": "graphql-project",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.15.3",
-    "express-graphql": "^0.6.7"
+    "express-graphql": "^0.6.7",
+    "graphql": "^0.10.5"
   }
 }

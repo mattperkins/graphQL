@@ -9,3 +9,4 @@
   }
 }
 ```
+# 'npm run jsn' = json-server --watch data.json
